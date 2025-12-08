@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://aaa-4bi.pages.dev/wp-sitemap.xml
+Sitemap: https://aaa.membogad.workers.dev/wp-sitemap.xml
